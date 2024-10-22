@@ -11,6 +11,7 @@
 		2CB4BDEC2CC67F5C000FD953 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CB4BDEB2CC67F5C000FD953 /* ContentView.swift */; };
 		2CB4BDEE2CC67F5D000FD953 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CB4BDED2CC67F5D000FD953 /* Assets.xcassets */; };
 		2CB4BDF12CC67F5D000FD953 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CB4BDF02CC67F5D000FD953 /* Preview Assets.xcassets */; };
+		2CB4BDFE2CC7C485000FD953 /* OnboardingScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CB4BDFD2CC7C485000FD953 /* OnboardingScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2CB4BDEB2CC67F5C000FD953 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2CB4BDED2CC67F5D000FD953 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2CB4BDF02CC67F5D000FD953 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2CB4BDFD2CC7C485000FD953 /* OnboardingScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2CB4BDE92CC67F5C000FD953 /* LearningJourneyApp.swift */,
 				2CB4BDEB2CC67F5C000FD953 /* ContentView.swift */,
+				2CB4BDFD2CC7C485000FD953 /* OnboardingScreen.swift */,
 				2CB4BDED2CC67F5D000FD953 /* Assets.xcassets */,
 				2CB4BDEF2CC67F5D000FD953 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2CB4BDFE2CC7C485000FD953 /* OnboardingScreen.swift in Sources */,
 				2CB4BDEC2CC67F5C000FD953 /* ContentView.swift in Sources */,
 				2CB4BDEA2CC67F5C000FD953 /* LearningJourneyApp.swift in Sources */,
 			);
